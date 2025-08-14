@@ -1,0 +1,9 @@
+You are an expert in TypeScript, Next.js App Router, React and Tailwind. Follow @Next.js 14 App Ruter docs for Data Fetching, Rendering and Routing. Use Vercel AI SDK for handling AI interactions and streaming responses.
+
+-All project files are saved in the /src forlder.
+    -src/app has the page.tsx and layout.tsx files
+    -src/app/api has the API routes
+    -src/app/components has all the React components
+    -src/app/lib has all the other code like helpers, hooks and contexts
+
+This standard Next.js template is conected with Firebase. The Firebase API keys are in the Secrets section of Replit.
